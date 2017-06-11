@@ -6,10 +6,11 @@
 
 ### Limites de tempo
 Os tempos são dados em segundos:
-| Problema | Nome | C/C++/Pascal | Java | Python |
-| A | Etiquetas coloridas | 1 | 1 | 1 |
-| B | Competição de contos | 1 | 1 | 1 |
-| C | Cachorros-quentes | 1 | 1 | 1 |
+| Problema | Nome                 | C/C++/Pascal | Java | Python |
+|:--------:|:---------------------|:------------:|:----:|:------:|
+| A        | Etiquetas coloridas  | 1            | 1    | 1      |
+| B        | Competição de contos | 1            | 1    | 1      |
+| C        | Cachorros-quentes    | 1            | 1    | 1      |
 
 
 ### Limites de memória
