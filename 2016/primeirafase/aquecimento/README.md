@@ -16,24 +16,29 @@ Os tempos são dados em segundos:
 
 
 ### Limites de memória
- C: 1GB
- C++: 1GB
- C++11: 1GB
- Java: 1GB + 20MB stack
+
+ C: 1GB  
+ C++: 1GB  
+ C++11: 1GB  
+ Java: 1GB + 20MB stack  
 
 ### Outros limites
- Source file size: 100KB
+
+ Source file size: 100KB  
  Output size: 1MB
 
 ### Comandos de compilação
- C: gcc -static -O2 -lm
- C++: g++ -std=c++11 -static -O2 -lm
- Java: javac
+
+ C: gcc -static -O2 -lm  
+ C++: g++ -std=c++11 -static -O2 -lm  
+ Java: javac  
 
 ### Java
-• Não declare ‘package’ no seu programa java.
-• Note que a convencão para o nome do arquivo fonte deve ser obedecida, o que significa que o nome de suclasse pública deve ser uma letra maiúscula (A, B ou C).
-• Comando para executar uma solução java: java -Xms1024m -Xmx1024m -Xss20m
+
+• Não declare ‘package’ no seu programa java.  
+• Note que a convencão para o nome do arquivo fonte deve ser obedecida, o que significa que o nome de suclasse pública deve ser uma letra maiúscula (A, B ou C).  
+• Comando para executar uma solução java: java -Xms1024m -Xmx1024m -Xss20m  
 
 ### C/C++
-• Seu programa deve retornar zero, executando, como u ́ltimo comando, return 0 ou exit(0).
+
+• Seu programa deve retornar zero, executando, como u ́ltimo comando, return 0 ou exit(0).  
