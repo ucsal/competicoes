@@ -5,7 +5,9 @@
 ## Aquecimento
 
 ### Limites de tempo
+
 Os tempos são dados em segundos:
+
 | Problema | Nome                 | C/C++/Pascal | Java | Python |
 |:--------:|:---------------------|:------------:|:----:|:------:|
 | A        | Etiquetas coloridas  | 1            | 1    | 1      |
