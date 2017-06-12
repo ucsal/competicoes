@@ -62,7 +62,7 @@ public class Teste {
 		return Arrays.asList(lista);
 	}
 
-	@Test(timeout = 1000)
+	@Test(timeout = 6000)
 	public void test() {
 		inContent = new ByteArrayInputStream((input).getBytes());
 		System.setIn(inContent);
