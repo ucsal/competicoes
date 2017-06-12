@@ -41,4 +41,4 @@ Os tempos são dados em segundos:
 
 ### C/C++
 
-• Seu programa deve retornar zero, executando, como u ́ltimo comando, return 0 ou exit(0).  
+• Seu programa deve retornar zero, executando, como último comando, return 0 ou exit(0).  
