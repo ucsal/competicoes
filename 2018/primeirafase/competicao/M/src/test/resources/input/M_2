@@ -1,0 +1,6 @@
+5 6
+(not x1) and
+(x1 or x2 or x4) and
+(x1 or x3 or x5) and
+(not x2 or x3 or x5) and
+(x2 or x3 or not x4)

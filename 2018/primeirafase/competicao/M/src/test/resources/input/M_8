@@ -1,0 +1,365 @@
+364 560
+(not x386 or not x475 or x30) and
+(x379 or not x555 or not x322) and
+(not x216 or not x383 or not x543) and
+(x91 or not x338 or not x509) and
+(x540 or x505 or x373) and
+(x273 or x500 or not x404) and
+(not x151 or not x495 or x310) and
+(x173 or not x114 or x248) and
+(not x497 or not x12 or x467) and
+(x244 or x418 or not x223) and
+(x289 or not x336 or x117) and
+(x184 or x34 or not x33) and
+(not x254 or x412 or not x440) and
+(not x298 or x230 or x554) and
+(not x350 or not x547 or not x52) and
+(not x246 or not x387 or x202) and
+(not x511 or not x254 or not x59) and
+(not x174 or x524 or x68) and
+(x116 or not x379 or x309) and
+(not x455 or x480 or x381) and
+(not x24 or not x137 or not x539) and
+(x266 or x413 or not x471) and
+(not x385 or x423 or not x143) and
+(not x319 or x120 or x166) and
+(x370 or x74 or x10) and
+(x474 or not x67 or not x156) and
+(not x220 or not x461 or x347) and
+(x31 or not x228 or x154) and
+(not x44 or x552 or not x534) and
+(x312 or x329 or not x181) and
+(not x429 or not x111 or not x209) and
+(not x160 or not x35 or x63) and
+(not x110 or not x131 or x292) and
+(x106 or not x151 or x507) and
+(x196 or not x496 or x191) and
+(x242 or not x147 or x98) and
+(x303 or not x209 or x473) and
+(not x60 or not x458 or x215) and
+(not x296 or not x404 or not x257) and
+(not x379 or not x111 or x408) and
+(x440 or not x40 or not x173) and
+(x468 or x419 or not x140) and
+(not x17 or not x189 or x60) and
+(not x516 or not x517 or x188) and
+(not x212 or x193 or not x141) and
+(not x199 or x308 or not x248) and
+(x138 or not x139 or x71) and
+(not x410 or x147 or not x156) and
+(x537 or not x103 or x483) and
+(x143 or x351 or x545) and
+(not x358 or not x6 or x198) and
+(not x245 or x176 or x537) and
+(not x34 or not x348 or not x36) and
+(not x523 or not x118 or not x217) and
+(x277 or x348 or not x77) and
+(not x322 or x488 or x207) and
+(x346 or x445 or not x48) and
+(not x369 or not x388 or not x109) and
+(x412 or not x146 or x446) and
+(x501 or not x169 or not x77) and
+(not x535 or not x481 or not x496) and
+(not x90 or not x124 or x410) and
+(not x238 or x478 or not x150) and
+(not x30 or not x332 or not x104) and
+(x42 or not x357 or not x54) and
+(not x232 or not x44 or not x1) and
+(not x374 or not x114 or x534) and
+(x394 or not x484 or x164) and
+(not x241 or not x195 or not x419) and
+(not x213 or x64 or x205) and
+(x207 or not x183 or x99) and
+(not x41 or x295 or x264) and
+(x80 or not x547 or x211) and
+(not x311 or not x388 or x162) and
+(not x515 or x184 or not x428) and
+(x543 or x107 or x557) and
+(not x339 or not x433 or x78) and
+(not x187 or not x471 or x238) and
+(x265 or x61 or x307) and
+(not x527 or x121 or x24) and
+(x545 or x83 or not x453) and
+(not x129 or not x296 or not x71) and
+(not x7 or not x75 or not x94) and
+(not x485 or x297 or x352) and
+(not x189 or not x557 or not x99) and
+(not x503 or not x227 or not x487) and
+(not x169 or not x472 or x77) and
+(not x507 or x518 or not x557) and
+(x520 or x333 or not x375) and
+(x328 or not x98 or x256) and
+(not x407 or not x407 or x431) and
+(x384 or x436 or not x45) and
+(x295 or x560 or not x343) and
+(not x374 or x548 or not x368) and
+(not x252 or not x59 or not x263) and
+(x93 or not x488 or not x324) and
+(not x434 or x287 or not x342) and
+(x4 or x316 or x502) and
+(x198 or x279 or not x509) and
+(x508 or x84 or not x514) and
+(x447 or not x389 or not x144) and
+(not x262 or x390 or x273) and
+(x509 or x524 or x217) and
+(x310 or not x471 or not x42) and
+(x144 or not x223 or x88) and
+(not x20 or not x128 or x342) and
+(x162 or x260 or x189) and
+(x59 or x518 or not x537) and
+(x62 or not x322 or not x291) and
+(x115 or not x126 or x486) and
+(x457 or not x131 or not x278) and
+(not x336 or not x552 or x278) and
+(x248 or x101 or x331) and
+(not x473 or not x181 or x468) and
+(x545 or not x525 or not x206) and
+(x214 or x386 or x271) and
+(not x49 or x189 or x156) and
+(not x198 or x548 or x26) and
+(not x256 or not x372 or not x336) and
+(not x366 or not x188 or not x86) and
+(not x226 or x52 or not x237) and
+(not x175 or x24 or x538) and
+(x263 or not x249 or x440) and
+(not x273 or x518 or not x27) and
+(not x464 or x346 or not x335) and
+(x266 or x475 or x134) and
+(x264 or not x379 or x516) and
+(not x410 or x401 or x301) and
+(not x434 or x230 or x358) and
+(x390 or x269 or not x237) and
+(not x389 or x68 or not x155) and
+(not x500 or not x146 or x496) and
+(x498 or not x506 or not x166) and
+(x311 or not x355 or not x251) and
+(not x275 or x277 or x188) and
+(x324 or not x346 or x166) and
+(not x181 or x208 or not x80) and
+(not x249 or not x139 or not x430) and
+(not x43 or x175 or not x339) and
+(x236 or not x410 or not x399) and
+(not x105 or not x233 or x462) and
+(x525 or not x469 or x318) and
+(x260 or x396 or x397) and
+(x172 or x296 or not x46) and
+(x495 or not x356 or not x517) and
+(not x346 or not x250 or not x193) and
+(x485 or x96 or x207) and
+(not x51 or not x321 or not x513) and
+(not x37 or x47 or not x554) and
+(not x2 or not x504 or x381) and
+(x168 or x334 or not x25) and
+(not x248 or x63 or x141) and
+(x359 or x449 or x387) and
+(not x118 or not x323 or not x210) and
+(x483 or x51 or x330) and
+(x373 or x174 or x193) and
+(x4 or x377 or not x136) and
+(not x28 or x146 or not x43) and
+(x172 or x162 or x321) and
+(x230 or x103 or not x391) and
+(x74 or not x319 or x546) and
+(x120 or x64 or x4) and
+(x93 or x262 or x273) and
+(x209 or x397 or not x263) and
+(x99 or not x419 or not x202) and
+(x338 or x363 or not x108) and
+(x21 or x229 or x247) and
+(not x342 or not x126 or not x159) and
+(not x131 or not x47 or not x358) and
+(x409 or not x194 or x331) and
+(not x390 or not x372 or x477) and
+(not x481 or x504 or x118) and
+(x352 or not x510 or not x421) and
+(not x343 or x293 or not x451) and
+(not x380 or not x479 or not x408) and
+(x358 or not x276 or not x139) and
+(not x295 or not x410 or not x282) and
+(x482 or not x460 or not x25) and
+(x413 or not x507 or x154) and
+(x156 or not x339 or x526) and
+(not x191 or x7 or x301) and
+(x49 or not x54 or x146) and
+(x445 or not x100 or x138) and
+(not x513 or not x464 or x103) and
+(x50 or not x217 or not x113) and
+(not x356 or not x311 or not x98) and
+(x538 or not x229 or not x113) and
+(not x18 or x541 or x324) and
+(not x240 or x57 or x239) and
+(x27 or x238 or not x182) and
+(not x443 or not x336 or x401) and
+(x12 or not x455 or not x429) and
+(x240 or not x531 or x410) and
+(not x138 or x516 or x342) and
+(x170 or x477 or x257) and
+(x280 or not x48 or not x101) and
+(not x61 or x523 or x110) and
+(not x416 or not x386 or x12) and
+(x484 or x30 or not x260) and
+(x328 or x44 or not x501) and
+(x351 or x344 or not x287) and
+(not x52 or x245 or x312) and
+(x368 or x291 or x243) and
+(x516 or not x68 or not x78) and
+(x385 or not x297 or x447) and
+(not x154 or not x295 or x206) and
+(not x188 or not x418 or x250) and
+(x169 or x379 or not x437) and
+(not x393 or not x250 or x513) and
+(not x299 or x181 or x535) and
+(not x292 or x121 or not x160) and
+(not x477 or not x225 or not x421) and
+(x137 or x424 or not x84) and
+(x392 or x75 or not x535) and
+(not x432 or not x265 or not x465) and
+(x163 or x421 or x315) and
+(not x183 or not x95 or not x521) and
+(x86 or not x490 or not x347) and
+(not x296 or not x268 or x21) and
+(x303 or x396 or not x113) and
+(x196 or x22 or not x462) and
+(x487 or not x144 or x353) and
+(not x445 or x216 or x146) and
+(not x542 or x87 or not x355) and
+(x133 or not x381 or not x64) and
+(x261 or not x494 or not x303) and
+(not x392 or x46 or x317) and
+(x505 or x20 or x243) and
+(not x382 or not x33 or not x386) and
+(x37 or not x59 or x357) and
+(not x217 or x185 or x317) and
+(not x537 or x506 or x37) and
+(not x428 or x80 or x535) and
+(x489 or x437 or x256) and
+(not x95 or x72 or x195) and
+(not x108 or x457 or not x555) and
+(not x131 or not x57 or not x311) and
+(not x19 or not x3 or x185) and
+(not x171 or not x437 or x378) and
+(not x130 or not x110 or not x308) and
+(not x367 or x520 or x188) and
+(not x514 or not x385 or not x555) and
+(x62 or x380 or not x95) and
+(x44 or not x487 or not x378) and
+(not x366 or x58 or not x458) and
+(not x194 or not x536 or x506) and
+(not x365 or not x171 or not x185) and
+(x72 or not x433 or x485) and
+(x34 or not x124 or x315) and
+(not x267 or not x369 or not x226) and
+(not x223 or x334 or x153) and
+(not x375 or x416 or x269) and
+(not x99 or not x139 or x400) and
+(x424 or not x352 or x220) and
+(x127 or x37 or x198) and
+(x255 or x414 or not x391) and
+(not x43 or not x75 or x321) and
+(x303 or not x112 or not x550) and
+(x396 or x421 or x104) and
+(not x510 or not x429 or not x432) and
+(x14 or x339 or not x506) and
+(not x164 or x36 or x463) and
+(not x137 or not x62 or not x347) and
+(x28 or x442 or x338) and
+(x361 or x556 or not x200) and
+(x207 or x144 or not x417) and
+(x147 or not x529 or x452) and
+(not x507 or not x477 or x156) and
+(x525 or x512 or not x528) and
+(not x164 or not x247 or x346) and
+(not x48 or not x359 or not x102) and
+(x43 or not x103 or x93) and
+(x333 or not x216 or x19) and
+(x417 or x99 or x326) and
+(not x373 or not x339 or x464) and
+(x125 or x111 or not x199) and
+(x402 or x503 or x534) and
+(x421 or x408 or x74) and
+(x10 or x278 or x371) and
+(x484 or not x158 or not x477) and
+(x125 or x346 or x308) and
+(not x422 or not x249 or not x129) and
+(x521 or x39 or not x204) and
+(not x502 or not x182 or x59) and
+(x501 or x381 or x231) and
+(x288 or not x386 or x397) and
+(not x409 or not x416 or x410) and
+(not x20 or not x249 or x330) and
+(x81 or x333 or not x263) and
+(not x424 or x275 or not x322) and
+(x460 or x340 or not x430) and
+(not x325 or x466 or x545) and
+(not x157 or x486 or not x176) and
+(not x298 or not x115 or not x416) and
+(x294 or x453 or x246) and
+(x206 or x430 or x418) and
+(not x388 or x285 or not x442) and
+(x83 or not x560 or not x170) and
+(x35 or x214 or not x340) and
+(x148 or not x195 or not x110) and
+(not x195 or x304 or not x248) and
+(not x364 or x382 or not x182) and
+(not x144 or not x369 or not x433) and
+(x104 or not x190 or not x375) and
+(x423 or x286 or not x327) and
+(not x160 or x157 or not x539) and
+(x301 or not x259 or not x540) and
+(x537 or x112 or not x240) and
+(not x514 or x409 or not x507) and
+(x359 or not x53 or x400) and
+(not x174 or x259 or x392) and
+(x394 or x260 or x505) and
+(x65 or x474 or not x38) and
+(x223 or x149 or x171) and
+(not x77 or not x310 or x316) and
+(x25 or x439 or not x356) and
+(x464 or not x412 or x163) and
+(not x64 or not x269 or x224) and
+(x477 or x545 or not x16) and
+(x374 or not x359 or x140) and
+(not x88 or x556 or not x358) and
+(x306 or not x217 or x310) and
+(not x295 or x171 or not x223) and
+(not x357 or not x90 or not x187) and
+(x408 or not x444 or not x427) and
+(not x430 or x76 or x247) and
+(x285 or x529 or not x229) and
+(not x42 or not x382 or not x98) and
+(x488 or x97 or not x48) and
+(x375 or x273 or not x14) and
+(not x6 or x69 or x491) and
+(not x196 or x11 or x235) and
+(x43 or x428 or not x512) and
+(not x357 or not x432 or x77) and
+(not x136 or x459 or not x200) and
+(not x449 or x103 or not x181) and
+(not x463 or not x239 or not x227) and
+(not x394 or x201 or x334) and
+(x481 or not x15 or not x392) and
+(x241 or not x415 or x120) and
+(x333 or not x127 or not x359) and
+(x504 or x379 or not x24) and
+(not x502 or x525 or x426) and
+(not x155 or x286 or x257) and
+(x373 or x421 or not x511) and
+(not x67 or not x340 or x159) and
+(x117 or not x339 or not x158) and
+(x279 or x352 or x170) and
+(x247 or not x221 or not x285) and
+(x157 or x554 or x194) and
+(x286 or not x211 or x200) and
+(x413 or x217 or x469) and
+(x228 or not x83 or x456) and
+(not x423 or not x216 or not x261) and
+(x516 or not x221 or x292) and
+(x338 or x558 or not x11) and
+(not x10 or x31 or x39) and
+(not x148 or x253 or x283) and
+(not x486 or not x553 or not x529) and
+(x173 or x48 or not x388) and
+(not x227 or not x87 or not x343) and
+(x421 or x421 or x428) and
+(x545 or not x449 or not x207) and
+(x549 or not x96 or not x240)

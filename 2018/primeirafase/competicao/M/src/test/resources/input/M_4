@@ -1,0 +1,1001 @@
+1000 100
+(not x1 or x26 or x93) and
+(not x19 or x73 or x64) and
+(not x9 or x94 or not x23) and
+(x42 or x5 or x95) and
+(not x27 or not x21 or x99) and
+(x86 or not x77 or not x8) and
+(x66 or x4 or x23) and
+(not x19 or not x19 or x89) and
+(not x42 or x77 or x66) and
+(x74 or not x36 or not x70) and
+(x22 or not x99 or not x2) and
+(not x65 or not x69 or x66) and
+(not x100 or not x41 or x44) and
+(not x71 or not x28 or not x87) and
+(x6 or x56 or x84) and
+(x68 or x90 or x15) and
+(x60 or not x27 or x36) and
+(x59 or x71 or not x74) and
+(x89 or not x34 or not x12) and
+(x22 or x1 or x43) and
+(not x34 or not x79 or not x53) and
+(x100 or not x42 or x22) and
+(x66 or x3 or not x100) and
+(x2 or not x85 or not x65) and
+(not x29 or not x85 or not x29) and
+(x18 or not x31 or x45) and
+(x77 or x73 or not x14) and
+(x46 or x8 or not x16) and
+(x90 or x57 or not x40) and
+(not x9 or x80 or not x34) and
+(x100 or not x68 or not x84) and
+(x25 or x58 or not x66) and
+(not x15 or x61 or x24) and
+(not x77 or x93 or x46) and
+(not x41 or not x57 or not x71) and
+(not x61 or not x53 or x99) and
+(not x78 or x10 or x90) and
+(not x41 or not x95 or x17) and
+(x38 or not x36 or x27) and
+(not x52 or not x89 or not x45) and
+(x73 or not x87 or not x87) and
+(not x15 or x14 or x15) and
+(x35 or not x4 or x62) and
+(x5 or not x30 or x59) and
+(not x94 or not x93 or x94) and
+(not x33 or not x57 or x43) and
+(not x1 or not x64 or x44) and
+(x50 or x25 or x64) and
+(not x15 or x90 or not x23) and
+(not x37 or x87 or x22) and
+(not x76 or not x36 or x11) and
+(x21 or x28 or not x57) and
+(x79 or x83 or x11) and
+(not x58 or not x75 or x64) and
+(x73 or x91 or x56) and
+(x63 or x91 or not x91) and
+(x20 or not x49 or x40) and
+(not x31 or not x60 or not x29) and
+(not x4 or not x96 or x4) and
+(not x4 or x91 or not x34) and
+(x30 or x26 or not x95) and
+(x62 or x48 or not x100) and
+(x49 or not x19 or x15) and
+(not x32 or x95 or x16) and
+(x46 or x97 or not x58) and
+(not x75 or not x85 or x24) and
+(not x11 or not x16 or x8) and
+(x72 or not x81 or not x76) and
+(not x40 or not x85 or not x72) and
+(not x12 or x54 or not x85) and
+(not x99 or x18 or x22) and
+(x87 or not x25 or x54) and
+(not x27 or x69 or not x5) and
+(not x54 or x96 or not x84) and
+(not x30 or not x39 or x71) and
+(x68 or x31 or not x52) and
+(not x48 or not x4 or not x48) and
+(not x64 or not x3 or not x28) and
+(x72 or not x39 or not x55) and
+(x35 or not x43 or x69) and
+(x60 or x8 or x84) and
+(not x69 or not x11 or x91) and
+(x71 or x49 or not x17) and
+(not x22 or x14 or x90) and
+(not x54 or x87 or x73) and
+(x67 or x62 or not x19) and
+(x78 or not x27 or not x57) and
+(x69 or x52 or not x36) and
+(x72 or x65 or not x35) and
+(not x8 or x9 or not x56) and
+(x61 or not x52 or x74) and
+(not x92 or not x55 or not x82) and
+(x57 or x97 or not x26) and
+(not x8 or not x24 or x15) and
+(x84 or not x6 or not x74) and
+(x18 or not x49 or x53) and
+(x35 or not x39 or not x33) and
+(x78 or x88 or x43) and
+(x21 or x11 or x53) and
+(x67 or x76 or not x67) and
+(x25 or not x6 or x45) and
+(not x95 or not x46 or x66) and
+(not x24 or x75 or x98) and
+(not x34 or x62 or x6) and
+(x79 or not x82 or x35) and
+(x90 or not x13 or not x17) and
+(x53 or not x54 or not x100) and
+(x87 or not x51 or x99) and
+(x25 or x12 or x4) and
+(not x74 or not x68 or x55) and
+(x16 or x90 or not x82) and
+(x74 or x38 or x57) and
+(x67 or not x5 or not x96) and
+(not x82 or x33 or not x53) and
+(not x11 or x100 or not x82) and
+(not x27 or not x11 or not x22) and
+(not x83 or x25 or not x44) and
+(x86 or not x96 or not x79) and
+(x96 or not x100 or not x35) and
+(x56 or not x72 or not x79) and
+(not x44 or x12 or x48) and
+(x87 or x66 or x46) and
+(x25 or x1 or x73) and
+(not x19 or x33 or not x58) and
+(x38 or not x42 or x5) and
+(x53 or x94 or not x95) and
+(not x32 or x91 or not x43) and
+(not x82 or x28 or not x6) and
+(not x88 or not x64 or not x13) and
+(x83 or x94 or not x19) and
+(x42 or x14 or x57) and
+(x91 or not x53 or x38) and
+(not x61 or x76 or x96) and
+(x23 or x47 or not x95) and
+(not x29 or x47 or x99) and
+(x22 or not x56 or not x94) and
+(x34 or x7 or not x11) and
+(not x42 or x14 or not x51) and
+(not x21 or not x58 or not x19) and
+(x93 or not x32 or x63) and
+(not x86 or not x98 or x62) and
+(x87 or not x48 or not x79) and
+(not x70 or not x84 or x18) and
+(not x29 or not x31 or x37) and
+(not x4 or x81 or not x79) and
+(not x78 or not x25 or x38) and
+(x58 or not x81 or not x13) and
+(not x33 or not x30 or x84) and
+(x23 or not x61 or not x76) and
+(x55 or not x43 or x56) and
+(not x89 or x29 or not x53) and
+(x50 or x28 or x16) and
+(x93 or not x70 or not x21) and
+(not x94 or x69 or x17) and
+(x20 or x74 or x85) and
+(x22 or not x63 or x30) and
+(x15 or not x8 or x92) and
+(x34 or x97 or not x94) and
+(x8 or not x39 or x44) and
+(not x75 or x2 or x2) and
+(not x33 or x92 or x99) and
+(x35 or not x5 or not x30) and
+(x36 or x13 or not x23) and
+(not x98 or x8 or not x7) and
+(x71 or not x33 or not x10) and
+(x88 or not x48 or not x97) and
+(x57 or not x99 or x4) and
+(x33 or x74 or x53) and
+(not x96 or not x73 or not x17) and
+(x96 or not x52 or not x64) and
+(not x96 or x69 or x61) and
+(not x58 or x2 or x69) and
+(not x72 or x80 or x76) and
+(not x53 or not x65 or not x79) and
+(x56 or x63 or not x11) and
+(x27 or not x75 or not x20) and
+(x84 or not x79 or not x41) and
+(not x63 or not x5 or x1) and
+(x95 or not x4 or x36) and
+(x86 or not x87 or not x90) and
+(not x83 or not x72 or x59) and
+(x54 or not x84 or not x13) and
+(x5 or x16 or x49) and
+(not x28 or x76 or not x49) and
+(x92 or x67 or x37) and
+(not x26 or not x62 or x30) and
+(x21 or not x68 or x18) and
+(x100 or not x2 or x29) and
+(x15 or x49 or x4) and
+(x42 or not x35 or x70) and
+(not x71 or x16 or not x25) and
+(not x48 or x99 or x53) and
+(x8 or not x7 or not x52) and
+(x82 or not x93 or x68) and
+(x43 or not x14 or not x45) and
+(x2 or x63 or not x40) and
+(x41 or not x68 or x18) and
+(not x93 or x61 or x60) and
+(not x21 or not x11 or not x39) and
+(x37 or x24 or not x14) and
+(not x11 or x2 or not x43) and
+(x83 or not x64 or x92) and
+(not x57 or not x18 or not x30) and
+(x72 or x37 or not x46) and
+(x89 or x81 or not x34) and
+(not x51 or x27 or not x45) and
+(x39 or x23 or x56) and
+(not x71 or not x69 or x72) and
+(not x65 or not x51 or not x72) and
+(not x3 or not x90 or not x34) and
+(x82 or not x76 or not x1) and
+(x66 or x44 or not x63) and
+(x20 or not x73 or x14) and
+(not x50 or x67 or x67) and
+(x11 or not x18 or x91) and
+(x87 or x32 or not x89) and
+(x20 or x57 or x91) and
+(not x55 or not x8 or not x92) and
+(x3 or x43 or not x78) and
+(not x98 or x16 or x50) and
+(x97 or x10 or not x34) and
+(not x77 or not x36 or x92) and
+(x97 or not x50 or x14) and
+(not x34 or x7 or not x49) and
+(not x26 or x11 or not x55) and
+(not x6 or x88 or x71) and
+(not x34 or x24 or not x2) and
+(not x47 or not x37 or not x45) and
+(x96 or x94 or not x39) and
+(not x12 or not x12 or not x60) and
+(x25 or x70 or x7) and
+(not x38 or not x53 or x4) and
+(not x97 or x80 or not x28) and
+(not x63 or x20 or not x25) and
+(not x50 or not x75 or not x41) and
+(x32 or not x91 or x31) and
+(x66 or x15 or not x47) and
+(not x1 or not x49 or x75) and
+(not x28 or not x95 or not x94) and
+(not x13 or x14 or not x23) and
+(x44 or x74 or x67) and
+(not x99 or not x84 or x84) and
+(not x12 or x71 or not x6) and
+(not x50 or not x69 or not x73) and
+(not x31 or x41 or x84) and
+(not x1 or x75 or not x32) and
+(x74 or not x39 or not x43) and
+(not x97 or x25 or x18) and
+(not x69 or not x59 or not x5) and
+(not x89 or not x100 or not x3) and
+(x37 or x87 or x18) and
+(not x47 or not x18 or x88) and
+(x37 or x92 or x51) and
+(x57 or x85 or not x8) and
+(x69 or x53 or not x43) and
+(x87 or not x83 or x66) and
+(not x41 or x3 or x53) and
+(not x4 or x25 or not x7) and
+(not x5 or not x52 or not x6) and
+(x87 or x63 or not x80) and
+(not x88 or x39 or x49) and
+(x77 or x39 or not x1) and
+(not x48 or x9 or x59) and
+(x65 or not x86 or x98) and
+(not x68 or not x17 or not x13) and
+(x38 or x90 or not x88) and
+(not x84 or not x12 or not x26) and
+(x76 or not x13 or not x51) and
+(x32 or x72 or not x83) and
+(not x56 or not x52 or not x2) and
+(x76 or not x13 or not x99) and
+(not x77 or x13 or x20) and
+(not x12 or not x36 or x78) and
+(not x46 or x10 or x70) and
+(x61 or x83 or x30) and
+(x28 or x64 or not x55) and
+(not x59 or not x40 or x3) and
+(not x10 or not x64 or x84) and
+(not x58 or x64 or x17) and
+(x6 or x25 or x95) and
+(not x19 or not x81 or not x99) and
+(not x97 or x6 or x16) and
+(not x70 or not x48 or x76) and
+(not x79 or not x70 or x55) and
+(x21 or not x64 or not x7) and
+(x80 or not x10 or x17) and
+(not x14 or not x81 or not x40) and
+(not x22 or x87 or not x62) and
+(x69 or not x86 or x87) and
+(not x65 or x7 or not x96) and
+(not x60 or not x11 or not x83) and
+(not x74 or not x7 or not x40) and
+(x37 or not x22 or x58) and
+(x59 or x72 or x88) and
+(not x50 or x94 or not x27) and
+(not x77 or not x51 or x67) and
+(x44 or not x49 or not x88) and
+(not x29 or x7 or not x73) and
+(not x49 or x46 or not x46) and
+(x17 or x3 or not x3) and
+(x42 or x37 or x37) and
+(x71 or x66 or x70) and
+(not x68 or not x73 or not x29) and
+(not x15 or not x57 or not x75) and
+(not x1 or not x62 or not x79) and
+(x81 or x1 or not x76) and
+(not x6 or x71 or x23) and
+(x75 or x91 or x22) and
+(not x37 or not x98 or x25) and
+(not x16 or x10 or x6) and
+(x85 or not x11 or x29) and
+(not x92 or x82 or x5) and
+(not x4 or not x49 or x74) and
+(not x31 or x13 or not x9) and
+(x31 or not x56 or not x55) and
+(not x77 or x65 or not x66) and
+(not x38 or x3 or x75) and
+(x20 or x92 or x64) and
+(x49 or not x13 or x24) and
+(not x54 or not x95 or not x55) and
+(x17 or x69 or x52) and
+(x70 or x17 or x17) and
+(x23 or x56 or not x31) and
+(x12 or x1 or not x81) and
+(not x39 or x37 or x34) and
+(not x76 or x39 or not x35) and
+(x76 or not x57 or not x92) and
+(not x91 or x8 or x33) and
+(x7 or not x9 or x89) and
+(not x15 or x6 or not x39) and
+(x14 or not x54 or x67) and
+(x51 or x18 or x31) and
+(not x87 or not x4 or x35) and
+(not x69 or x27 or x22) and
+(x100 or x46 or x87) and
+(x20 or not x5 or x46) and
+(not x24 or x57 or x12) and
+(x68 or not x97 or x77) and
+(x15 or not x7 or not x59) and
+(not x47 or x22 or not x22) and
+(x62 or x89 or x39) and
+(not x45 or x55 or x50) and
+(x16 or not x8 or x82) and
+(x62 or x62 or x53) and
+(not x53 or x17 or x85) and
+(not x93 or x48 or x23) and
+(not x20 or x96 or x45) and
+(not x32 or not x19 or x85) and
+(x14 or x74 or x22) and
+(x30 or x30 or x45) and
+(x80 or x17 or x16) and
+(x43 or x17 or not x37) and
+(x5 or x2 or not x53) and
+(not x87 or not x34 or x9) and
+(x37 or not x83 or x75) and
+(x47 or not x60 or x51) and
+(x85 or x46 or not x69) and
+(x22 or x8 or x67) and
+(not x28 or not x13 or not x37) and
+(x17 or x97 or not x69) and
+(not x44 or x33 or x30) and
+(x20 or not x99 or not x61) and
+(x18 or not x91 or x22) and
+(x26 or x16 or not x40) and
+(x74 or not x19 or not x90) and
+(x66 or not x27 or x89) and
+(not x57 or x92 or not x27) and
+(not x1 or x64 or x31) and
+(x3 or not x46 or x33) and
+(not x39 or x3 or x4) and
+(x45 or x78 or x78) and
+(x33 or x69 or not x45) and
+(x14 or x85 or x22) and
+(not x84 or x95 or x81) and
+(not x33 or not x65 or x89) and
+(not x64 or not x80 or x47) and
+(x61 or x41 or not x79) and
+(x2 or x56 or not x97) and
+(not x22 or x17 or not x32) and
+(x55 or x33 or x50) and
+(not x5 or not x15 or not x39) and
+(not x95 or x14 or not x97) and
+(not x25 or not x57 or not x69) and
+(x4 or x54 or x79) and
+(not x64 or x80 or x46) and
+(not x62 or not x63 or not x29) and
+(x89 or not x85 or not x61) and
+(x74 or x22 or x32) and
+(not x73 or not x38 or not x30) and
+(x66 or x37 or not x38) and
+(x53 or not x75 or x6) and
+(x17 or x47 or x83) and
+(x73 or x14 or x47) and
+(x53 or x1 or not x81) and
+(x93 or not x18 or x21) and
+(x37 or x82 or not x97) and
+(not x30 or not x97 or x62) and
+(x52 or x28 or not x34) and
+(not x10 or not x2 or not x51) and
+(x18 or x89 or x61) and
+(x10 or not x32 or x43) and
+(not x3 or x30 or x25) and
+(x96 or x77 or not x26) and
+(not x29 or not x54 or not x94) and
+(not x51 or not x58 or x57) and
+(not x73 or not x3 or x80) and
+(not x62 or not x27 or not x89) and
+(x74 or not x28 or x86) and
+(x47 or x48 or x61) and
+(x57 or x40 or not x53) and
+(x20 or not x20 or x17) and
+(not x98 or not x59 or not x92) and
+(x18 or x36 or x60) and
+(x48 or x35 or x29) and
+(not x72 or x5 or x92) and
+(x65 or x93 or not x70) and
+(x92 or x75 or not x6) and
+(x62 or not x100 or not x80) and
+(not x52 or x27 or x4) and
+(x3 or x100 or not x91) and
+(not x9 or x92 or not x70) and
+(not x92 or not x47 or x98) and
+(x23 or x33 or not x73) and
+(not x91 or not x2 or x90) and
+(x72 or not x46 or x23) and
+(x60 or x16 or not x21) and
+(x100 or not x93 or x94) and
+(not x69 or not x62 or not x100) and
+(x96 or x44 or not x37) and
+(not x45 or not x25 or not x8) and
+(not x100 or not x85 or not x78) and
+(x75 or x39 or x37) and
+(not x83 or x53 or not x29) and
+(x8 or not x22 or not x80) and
+(x52 or x59 or not x28) and
+(x42 or x42 or x4) and
+(x56 or not x23 or x92) and
+(x68 or not x91 or not x39) and
+(not x54 or x78 or x27) and
+(not x48 or not x19 or not x41) and
+(not x44 or x89 or not x61) and
+(not x48 or x72 or x17) and
+(not x9 or x51 or not x22) and
+(not x15 or x1 or not x97) and
+(not x32 or not x34 or not x73) and
+(x92 or not x96 or x33) and
+(not x57 or x51 or not x63) and
+(not x86 or not x64 or not x86) and
+(not x46 or not x60 or x44) and
+(not x8 or not x76 or x17) and
+(not x85 or not x50 or x40) and
+(x92 or not x34 or x43) and
+(x91 or not x62 or not x66) and
+(x45 or not x77 or not x52) and
+(not x43 or x53 or x88) and
+(x46 or not x77 or not x39) and
+(x49 or not x4 or not x11) and
+(x88 or x87 or not x46) and
+(not x23 or x40 or x67) and
+(not x97 or x16 or not x46) and
+(x90 or x52 or x38) and
+(not x91 or x44 or not x13) and
+(x33 or not x59 or x97) and
+(not x66 or not x24 or x47) and
+(not x88 or not x81 or x91) and
+(x30 or x68 or not x82) and
+(not x100 or x66 or not x54) and
+(not x54 or x67 or x62) and
+(not x100 or not x59 or not x96) and
+(x49 or x97 or not x56) and
+(x66 or x90 or x67) and
+(not x98 or not x43 or not x56) and
+(not x8 or not x33 or not x67) and
+(x57 or not x92 or not x20) and
+(x1 or not x75 or x81) and
+(x3 or not x13 or not x7) and
+(not x81 or x65 or x18) and
+(not x84 or not x31 or x36) and
+(not x71 or x28 or x83) and
+(not x75 or x53 or not x85) and
+(not x84 or not x62 or x8) and
+(x89 or x98 or x99) and
+(not x32 or not x62 or x100) and
+(not x60 or not x19 or not x10) and
+(not x36 or x33 or not x90) and
+(not x57 or not x76 or not x38) and
+(x19 or x39 or x52) and
+(not x59 or x29 or x39) and
+(not x95 or not x99 or not x51) and
+(not x85 or x29 or x90) and
+(x90 or not x27 or not x70) and
+(x72 or not x66 or x78) and
+(not x94 or not x69 or not x6) and
+(not x11 or x39 or x74) and
+(not x39 or x45 or x65) and
+(not x59 or x64 or x22) and
+(not x74 or not x77 or x49) and
+(x71 or not x31 or x93) and
+(not x90 or not x67 or not x6) and
+(x10 or not x88 or not x42) and
+(x20 or not x90 or not x15) and
+(not x43 or not x73 or not x87) and
+(x47 or not x12 or x47) and
+(not x96 or not x4 or not x81) and
+(x68 or not x3 or x66) and
+(not x74 or x17 or x1) and
+(not x19 or not x4 or x20) and
+(not x20 or x73 or not x53) and
+(not x38 or not x70 or not x18) and
+(x57 or x31 or not x42) and
+(x70 or not x54 or x64) and
+(not x79 or not x22 or x12) and
+(not x8 or x27 or not x79) and
+(not x23 or not x2 or x44) and
+(x77 or x32 or not x49) and
+(not x64 or x37 or not x33) and
+(x73 or not x16 or not x36) and
+(x14 or not x77 or x84) and
+(x44 or not x71 or x43) and
+(x26 or not x88 or x29) and
+(not x54 or x39 or x18) and
+(x32 or not x76 or not x24) and
+(x19 or x91 or x56) and
+(x20 or not x43 or not x75) and
+(not x94 or x32 or x90) and
+(x100 or not x52 or x90) and
+(x37 or not x75 or x44) and
+(not x88 or not x46 or not x28) and
+(not x2 or not x42 or not x6) and
+(not x24 or x52 or not x61) and
+(x14 or not x14 or not x89) and
+(x79 or x11 or x38) and
+(x63 or x26 or not x7) and
+(x48 or not x98 or not x4) and
+(x88 or not x73 or x33) and
+(x88 or not x86 or x97) and
+(not x83 or not x89 or x58) and
+(not x66 or not x70 or x98) and
+(x65 or not x42 or x94) and
+(x31 or not x47 or not x12) and
+(x38 or x39 or x93) and
+(x42 or not x45 or x4) and
+(not x48 or not x97 or x75) and
+(not x37 or x69 or not x22) and
+(x22 or not x33 or x100) and
+(not x26 or x71 or x15) and
+(x46 or x61 or not x61) and
+(x39 or not x26 or x55) and
+(x72 or x40 or x14) and
+(not x32 or not x24 or x98) and
+(not x21 or x36 or x92) and
+(x95 or not x52 or not x38) and
+(x87 or x32 or not x15) and
+(x56 or not x93 or x71) and
+(not x97 or x56 or x9) and
+(x100 or not x50 or not x41) and
+(not x64 or x32 or not x38) and
+(not x54 or x60 or x62) and
+(x26 or x16 or not x31) and
+(x58 or not x22 or x53) and
+(not x91 or x63 or x33) and
+(x55 or x52 or x93) and
+(x46 or not x64 or x70) and
+(not x19 or not x39 or x11) and
+(x38 or x1 or not x12) and
+(x81 or x31 or not x74) and
+(not x59 or not x18 or not x45) and
+(not x29 or not x3 or not x29) and
+(x73 or not x61 or x12) and
+(not x69 or x96 or x33) and
+(not x82 or x3 or x26) and
+(x50 or not x83 or not x17) and
+(x76 or not x73 or x69) and
+(x4 or x93 or x56) and
+(x23 or x23 or not x67) and
+(x33 or not x46 or not x96) and
+(not x26 or x98 or x20) and
+(x83 or x27 or x53) and
+(not x32 or not x23 or x33) and
+(not x28 or x87 or not x13) and
+(not x1 or not x29 or x8) and
+(x64 or x14 or not x33) and
+(not x63 or not x60 or x19) and
+(x35 or not x100 or x66) and
+(not x91 or x86 or not x77) and
+(x67 or x24 or x21) and
+(not x73 or x67 or x53) and
+(not x16 or x10 or x2) and
+(x53 or x26 or x94) and
+(x13 or not x40 or x35) and
+(not x81 or not x30 or x19) and
+(x42 or x11 or not x6) and
+(not x79 or x58 or x35) and
+(x94 or x59 or x35) and
+(x43 or x99 or x2) and
+(x61 or x20 or x23) and
+(x3 or x29 or x96) and
+(x29 or x65 or not x53) and
+(not x16 or not x10 or not x81) and
+(not x34 or x61 or not x17) and
+(not x53 or x40 or x96) and
+(not x88 or not x43 or not x81) and
+(not x20 or x77 or not x33) and
+(not x83 or not x34 or x66) and
+(x16 or x63 or x48) and
+(not x58 or not x42 or not x18) and
+(not x32 or x3 or x34) and
+(not x17 or x94 or x15) and
+(not x13 or x3 or x39) and
+(x85 or not x2 or not x100) and
+(x51 or not x39 or not x73) and
+(x78 or not x14 or x60) and
+(not x91 or not x12 or not x86) and
+(x72 or x53 or not x91) and
+(x87 or not x21 or x11) and
+(not x28 or not x99 or not x74) and
+(x18 or not x45 or x18) and
+(x63 or x16 or x3) and
+(not x9 or not x3 or x26) and
+(not x25 or not x54 or not x27) and
+(x32 or not x97 or not x50) and
+(x57 or not x85 or not x80) and
+(x52 or not x56 or x56) and
+(x97 or x31 or not x75) and
+(not x47 or x37 or x4) and
+(not x46 or x64 or x54) and
+(x84 or not x65 or not x9) and
+(not x49 or not x95 or not x78) and
+(x23 or not x4 or not x25) and
+(x96 or not x88 or not x1) and
+(x58 or x66 or not x49) and
+(x38 or not x74 or not x31) and
+(not x68 or x100 or not x33) and
+(not x15 or x19 or not x27) and
+(x45 or not x14 or x9) and
+(not x98 or not x42 or x95) and
+(not x29 or not x6 or x79) and
+(x85 or not x42 or not x12) and
+(x97 or not x57 or not x93) and
+(x59 or x61 or x86) and
+(not x25 or not x13 or x27) and
+(not x23 or not x17 or not x20) and
+(x40 or x47 or x32) and
+(x10 or x98 or x56) and
+(x41 or not x30 or not x42) and
+(not x53 or not x56 or x47) and
+(not x41 or not x16 or not x15) and
+(not x61 or not x10 or x15) and
+(not x3 or not x80 or x10) and
+(x39 or not x84 or not x37) and
+(x23 or not x74 or x27) and
+(x35 or x93 or x97) and
+(x93 or x54 or not x79) and
+(x81 or not x99 or not x75) and
+(x46 or x57 or not x97) and
+(x1 or not x13 or x95) and
+(not x51 or not x18 or x38) and
+(x68 or not x59 or x92) and
+(x66 or not x3 or not x13) and
+(not x47 or not x10 or x25) and
+(not x18 or not x33 or not x44) and
+(x57 or x32 or x62) and
+(not x62 or not x97 or not x52) and
+(not x55 or x54 or not x95) and
+(not x91 or not x64 or not x95) and
+(x75 or x88 or x77) and
+(not x81 or not x38 or x62) and
+(x14 or not x22 or x71) and
+(not x79 or x79 or x42) and
+(not x77 or x26 or not x50) and
+(not x50 or not x30 or x59) and
+(x80 or not x35 or x4) and
+(not x30 or x20 or x90) and
+(x22 or not x69 or x63) and
+(x69 or not x77 or not x88) and
+(not x30 or x99 or not x1) and
+(x69 or not x14 or x69) and
+(not x92 or x55 or x39) and
+(x18 or not x21 or not x11) and
+(not x80 or x11 or not x69) and
+(x57 or x82 or x18) and
+(not x75 or x62 or not x30) and
+(x68 or x72 or not x18) and
+(x53 or x6 or x33) and
+(not x11 or x22 or x79) and
+(not x3 or x1 or not x19) and
+(not x2 or not x88 or x31) and
+(x78 or not x73 or x66) and
+(x36 or x96 or x33) and
+(x59 or x1 or x85) and
+(x45 or x1 or x88) and
+(x58 or not x10 or not x47) and
+(x17 or not x59 or x49) and
+(not x80 or x3 or not x70) and
+(not x100 or not x3 or x48) and
+(not x64 or not x97 or not x75) and
+(x98 or not x56 or x58) and
+(x19 or x62 or not x77) and
+(not x58 or not x80 or x9) and
+(x86 or not x74 or x71) and
+(x75 or not x29 or x47) and
+(not x51 or not x1 or x39) and
+(not x100 or x8 or x27) and
+(x71 or not x21 or x20) and
+(not x26 or x93 or not x50) and
+(not x24 or x33 or x47) and
+(x59 or x98 or not x84) and
+(not x22 or x58 or x90) and
+(x41 or x52 or not x40) and
+(x90 or not x54 or not x64) and
+(x38 or x87 or not x49) and
+(not x12 or x78 or not x44) and
+(not x81 or x90 or x44) and
+(x54 or not x97 or x90) and
+(x21 or not x84 or x96) and
+(x74 or x58 or x12) and
+(x92 or x44 or x62) and
+(x98 or not x69 or not x87) and
+(x3 or not x52 or x43) and
+(not x67 or x98 or x55) and
+(x84 or x39 or x76) and
+(not x78 or not x87 or x94) and
+(x49 or not x42 or x81) and
+(not x17 or not x47 or not x73) and
+(x3 or not x32 or not x35) and
+(not x60 or not x31 or not x29) and
+(x59 or not x99 or x36) and
+(x64 or x88 or not x14) and
+(not x39 or x46 or not x17) and
+(x38 or x20 or not x49) and
+(x49 or not x34 or not x84) and
+(x34 or not x52 or not x3) and
+(not x43 or not x20 or not x47) and
+(x7 or not x94 or x6) and
+(not x70 or x39 or not x87) and
+(x88 or x73 or x14) and
+(not x79 or not x86 or x8) and
+(not x6 or not x57 or not x38) and
+(not x37 or x5 or not x91) and
+(x36 or not x7 or x15) and
+(not x61 or x32 or not x81) and
+(x29 or x9 or x10) and
+(not x47 or not x86 or not x79) and
+(not x2 or x69 or not x71) and
+(x53 or x24 or x22) and
+(x55 or not x18 or x20) and
+(not x53 or x97 or x31) and
+(x44 or x81 or not x79) and
+(x31 or x50 or not x63) and
+(x20 or x65 or not x79) and
+(not x22 or x89 or x94) and
+(x75 or x87 or not x58) and
+(x94 or not x12 or x75) and
+(not x72 or x85 or x9) and
+(x31 or x19 or not x7) and
+(not x23 or x15 or not x84) and
+(x29 or not x86 or x79) and
+(not x75 or not x68 or not x15) and
+(x87 or x90 or x99) and
+(not x69 or not x34 or not x75) and
+(not x24 or not x10 or x33) and
+(x87 or not x74 or not x19) and
+(not x83 or not x96 or x70) and
+(not x81 or not x10 or not x86) and
+(x70 or x68 or not x27) and
+(not x22 or not x44 or x56) and
+(x42 or x62 or not x55) and
+(x84 or not x88 or not x83) and
+(not x59 or x30 or x40) and
+(x2 or x59 or not x86) and
+(x25 or not x70 or not x67) and
+(not x44 or not x38 or not x54) and
+(x3 or x58 or not x45) and
+(not x67 or x44 or x42) and
+(x31 or x57 or x60) and
+(not x53 or x82 or x91) and
+(not x18 or x15 or not x20) and
+(not x66 or x74 or not x55) and
+(x47 or not x25 or not x31) and
+(not x7 or x17 or x1) and
+(x88 or x96 or x98) and
+(x62 or x68 or x72) and
+(not x25 or x64 or not x86) and
+(not x95 or not x63 or x5) and
+(not x50 or x52 or x60) and
+(not x47 or x59 or not x65) and
+(not x19 or x80 or not x1) and
+(x78 or x3 or not x12) and
+(x18 or x88 or x38) and
+(not x85 or not x50 or not x56) and
+(x82 or x84 or not x65) and
+(not x14 or x35 or not x70) and
+(x15 or not x36 or x17) and
+(not x4 or x98 or not x79) and
+(x90 or x88 or not x77) and
+(not x89 or x88 or x97) and
+(x10 or x36 or not x96) and
+(x68 or not x54 or not x55) and
+(not x10 or x88 or x63) and
+(not x33 or x20 or not x55) and
+(not x94 or x45 or x64) and
+(not x74 or x73 or not x44) and
+(not x11 or not x65 or x7) and
+(not x21 or x53 or x15) and
+(x39 or x29 or not x16) and
+(not x87 or not x17 or not x26) and
+(x71 or not x11 or not x42) and
+(x54 or not x17 or x86) and
+(not x66 or x40 or not x78) and
+(x46 or not x28 or not x89) and
+(x14 or not x35 or x78) and
+(x62 or not x58 or not x82) and
+(x10 or x34 or x88) and
+(x40 or x50 or not x67) and
+(not x64 or not x2 or x66) and
+(not x84 or not x28 or not x98) and
+(not x58 or x87 or x15) and
+(not x2 or not x17 or x83) and
+(not x12 or not x56 or x75) and
+(not x39 or x75 or not x39) and
+(not x29 or x92 or x84) and
+(not x59 or not x6 or x1) and
+(not x10 or not x71 or x38) and
+(x43 or not x3 or x11) and
+(x100 or x4 or not x96) and
+(x87 or x90 or not x7) and
+(not x5 or not x7 or not x36) and
+(not x11 or x16 or not x55) and
+(not x83 or not x58 or x3) and
+(x94 or not x14 or not x35) and
+(x66 or x49 or not x64) and
+(x43 or x71 or not x65) and
+(not x95 or not x65 or not x74) and
+(x10 or x98 or not x82) and
+(x31 or not x70 or x20) and
+(x39 or x15 or x21) and
+(not x16 or x44 or x49) and
+(not x90 or not x82 or x90) and
+(not x52 or not x59 or not x48) and
+(x1 or x30 or not x40) and
+(x47 or not x63 or not x88) and
+(not x42 or x29 or not x96) and
+(not x31 or not x2 or x44) and
+(x32 or x96 or x68) and
+(not x45 or not x29 or not x74) and
+(x82 or x24 or x71) and
+(not x38 or x52 or x12) and
+(not x33 or x32 or x32) and
+(x3 or x6 or x17) and
+(x7 or not x50 or x58) and
+(x53 or not x92 or not x7) and
+(x37 or x47 or x50) and
+(x35 or x22 or x2) and
+(not x26 or x71 or x5) and
+(not x4 or x28 or x40) and
+(x82 or x74 or not x11) and
+(x100 or x52 or not x43) and
+(x8 or not x39 or x15) and
+(not x49 or x80 or x46) and
+(not x5 or x100 or not x13) and
+(not x78 or not x30 or not x2) and
+(x19 or not x78 or not x88) and
+(not x32 or x64 or not x72) and
+(not x83 or x16 or not x46) and
+(x34 or not x91 or x89) and
+(x59 or not x63 or not x98) and
+(x32 or not x38 or x10) and
+(not x51 or x88 or not x61) and
+(x64 or x23 or x48) and
+(x41 or x84 or x51) and
+(not x87 or x22 or not x11) and
+(not x89 or not x3 or not x68) and
+(not x23 or not x46 or not x75) and
+(x87 or x33 or x38) and
+(x22 or not x32 or x18) and
+(x28 or not x57 or x24) and
+(not x52 or not x71 or not x46) and
+(x12 or not x87 or not x3) and
+(not x16 or x42 or not x45) and
+(x6 or x64 or not x2) and
+(x81 or not x28 or x62) and
+(not x77 or x22 or x36) and
+(not x8 or x68 or not x45) and
+(x35 or not x16 or not x49) and
+(x99 or x31 or x47) and
+(not x73 or x17 or x9) and
+(not x16 or x80 or not x43) and
+(x1 or x43 or x46) and
+(x28 or x58 or not x29) and
+(not x13 or not x49 or not x21) and
+(x76 or not x27 or x79) and
+(x23 or x68 or not x55) and
+(not x98 or x94 or not x55) and
+(not x80 or x79 or x19) and
+(x6 or x80 or not x17) and
+(not x22 or not x51 or not x49) and
+(not x48 or x9 or not x80) and
+(x9 or x51 or not x81) and
+(x66 or not x18 or x39) and
+(x87 or x49 or not x97) and
+(x84 or not x92 or not x41) and
+(x63 or x48 or x3) and
+(x4 or x81 or not x29) and
+(not x10 or not x26 or x31) and
+(not x9 or not x91 or x82) and
+(not x100 or x11 or x40) and
+(x33 or not x44 or x97) and
+(not x37 or not x88 or x67) and
+(x23 or x57 or not x89) and
+(x50 or x38 or not x45) and
+(x84 or x45 or x20) and
+(not x66 or x1 or not x3) and
+(not x17 or not x16 or not x95) and
+(not x56 or not x83 or not x90) and
+(x30 or x15 or x85) and
+(not x90 or not x14 or x75) and
+(not x94 or not x80 or x51) and
+(x22 or x60 or not x89) and
+(not x52 or not x45 or not x95) and
+(not x8 or not x47 or x96) and
+(not x60 or x68 or not x95) and
+(x41 or x9 or x57) and
+(not x93 or not x48 or not x36) and
+(x3 or not x90 or x88) and
+(x99 or x92 or x35) and
+(x19 or not x82 or not x45) and
+(not x60 or x99 or not x80) and
+(x61 or x93 or x6) and
+(not x70 or not x2 or x59) and
+(not x14 or x93 or not x43) and
+(not x43 or x46 or not x78) and
+(x94 or x25 or not x70) and
+(x86 or not x6 or x52) and
+(x8 or not x15 or x95) and
+(x34 or x25 or x85) and
+(not x68 or x73 or x76) and
+(not x72 or not x15 or not x29) and
+(not x61 or x54 or not x94) and
+(not x100 or x100 or not x94) and
+(x89 or not x9 or x35) and
+(not x32 or x30 or not x98) and
+(x69 or not x5 or not x18) and
+(not x47 or not x21 or not x45) and
+(not x83 or not x48 or not x37) and
+(x33 or x50 or not x88) and
+(not x54 or x73 or x90) and
+(not x71 or x22 or x36) and
+(x93 or not x84 or x6) and
+(not x74 or x27 or x6) and
+(x6 or x3 or not x90) and
+(not x52 or not x67 or not x89) and
+(x92 or not x74 or x77) and
+(not x90 or x80 or x37) and
+(x9 or x68 or not x16) and
+(x75 or not x3 or x30) and
+(not x17 or not x49 or not x6) and
+(not x59 or x30 or x79) and
+(not x98 or x98 or not x98) and
+(not x31 or not x95 or x51) and
+(not x14 or not x33 or x64) and
+(not x8 or x37 or not x2) and
+(x75 or not x57 or x73) and
+(x5 or x75 or not x18) and
+(x90 or x21 or x32) and
+(x52 or x32 or x8) and
+(x65 or x24 or not x21) and
+(x79 or x64 or not x3) and
+(x17 or x4 or not x93) and
+(x78 or not x2 or x80) and
+(not x67 or x2 or not x70) and
+(x10 or not x43 or x63) and
+(x90 or not x95 or x70) and
+(not x37 or not x77 or not x84) and
+(x54 or not x10 or not x66) and
+(not x64 or x61 or x28) and
+(x60 or not x48 or x2) and
+(x15 or not x94 or x70) and
+(not x10 or x16 or not x37) and
+(not x38 or x47 or not x15) and
+(not x76 or not x23 or not x17) and
+(x56 or not x16 or x9) and
+(not x69 or not x2 or x44) and
+(not x17 or not x12 or x4) and
+(not x17 or x67 or not x3) and
+(x78 or not x4 or not x54) and
+(x54 or x48 or not x14) and
+(not x6 or x62 or not x51) and
+(not x39 or not x24 or x77) and
+(not x24 or not x42 or not x25) and
+(x15 or x5 or x9) and
+(not x94 or not x90 or x19) and
+(x22 or x59 or not x24) and
+(x11 or not x78 or not x89) and
+(not x86 or not x41 or not x7) and
+(not x86 or x73 or x64) and
+(not x14 or not x5 or not x80) and
+(x89 or x75 or x3) and
+(x82 or not x63 or x8) and
+(x82 or x89 or not x60) and
+(x99 or x93 or x32)
